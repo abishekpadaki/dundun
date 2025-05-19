@@ -11,6 +11,8 @@
 		249C474A2C70517100403FB3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C47492C70517100403FB3 /* ContentView.swift */; };
 		249C474C2C70519300403FB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 249C474B2C70519300403FB3 /* Assets.xcassets */; };
 		249C474F2C70519300403FB3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 249C474E2C70519300403FB3 /* Preview Assets.xcassets */; };
+		249C47562C7052DB00403FB3 /* Streak.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C47552C7052DB00403FB3 /* Streak.swift */; };
+		249C47582C70532400403FB3 /* StreakViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249C47572C70532400403FB3 /* StreakViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		249C47492C70517100403FB3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		249C474B2C70519300403FB3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		249C474E2C70519300403FB3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		249C47552C7052DB00403FB3 /* Streak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Streak.swift; sourceTree = "<group>"; };
+		249C47572C70532400403FB3 /* StreakViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreakViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				249C47472C70517100403FB3 /* DundunApp.swift */,
 				249C47492C70517100403FB3 /* ContentView.swift */,
+				249C47552C7052DB00403FB3 /* Streak.swift */,
+				249C47572C70532400403FB3 /* StreakViewModel.swift */,
 				249C474B2C70519300403FB3 /* Assets.xcassets */,
 				249C474D2C70519300403FB3 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				249C474A2C70517100403FB3 /* ContentView.swift in Sources */,
+				249C47562C7052DB00403FB3 /* Streak.swift in Sources */,
+				249C47582C70532400403FB3 /* StreakViewModel.swift in Sources */,
 				249C47482C70517100403FB3 /* DundunApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
